@@ -1,0 +1,36 @@
+.header{
+
+  padding-top: 50px;
+
+}
+
+input{
+  height: 35px;
+  width:200px;
+}
+
+button {
+  margin-left: -40px;
+  padding-bottom: 5px;
+  position: absolute;
+  z-index: auto;
+}
+
+.btn2{
+  height:35px;
+  padding-top: 5px;
+  width:40px;
+}
+
+.appendedelem{
+  margin-top: 20px;
+  border: 1px solid green;
+  padding: 10px 0 10px 0;
+  text-align: center;
+  border-radius: 5px;
+  box-shadow: 5px 5px 5px #888888;
+}
+
+.titleelem{
+  font-size: 1.5em;
+}
